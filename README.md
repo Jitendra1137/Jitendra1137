@@ -1,4 +1,4 @@
-![MasterHead]()
+![MasterHead](https://github.com/Jitendra1137/Jitendra1137/blob/main/img1.png)
 <h1 align="center">Hi 👋, I'm Jitendra kumar Jaat</h1>
 <h3 align="center">A passionate full-stack developer from India/ Mern Stack Development</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="border-radius: 20px;">
