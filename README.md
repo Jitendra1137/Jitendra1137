@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jitendra kumar Jat</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Jitendra Kumar Jaat </h1>
+<h3 align="center">A Full Stack Developer From India / Mern Stack Development</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra1137&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra1137" /> </p>
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="border-radius: 20px;">
 
-- 🌱 I’m currently learning **React.js , Express.js , MongoDB, MySQL, Node.js**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh121003&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh121003" /> </p>
 
-- 💬 Ask me about **html, css, bootstrap, javascript**
+
+
+- 🌱 I’m currently learning **NodeJS, ReactJS, ExpressJS, MongoDB, React Native**
+
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, mysql , sql**
 
 - 📫 How to reach me **jitendrakumarjat81@gmail.com**
-
 - ⚡ Fun fact **I am funny 😂**
 
 <h3 align="left">Connect with me:</h3>
