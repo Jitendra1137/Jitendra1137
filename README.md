@@ -33,9 +33,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra1137&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra1137" /> </p>
 
-- 🔭 I’m currently working on **chat- application**
+- 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **Node.js, Express.js, React.js, MongoDB, ReactNative**
+- 🌱 I’m currently learning **Node.js, Express.js, React.js, MongoDB, **
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, MySQL, SQL**
 
