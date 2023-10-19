@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jitendrakumarjat81@gmail.com**
 
-- ⚡ Fun fact **I love indian foods 😂**
+- ⚡ Fun fact **I love indian foods **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
