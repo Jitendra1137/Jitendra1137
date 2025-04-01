@@ -1,4 +1,4 @@
-![DevOps Banner](https://repository-images.githubusercontent.com/437187493/1db3be9a-54e5-4c4c-a55c-4b58e8a63db3)
+![DevOps Banner](https://github.com/Jitendra1137/Jitendra1137/blob/main/ChatGPT%20Image%20Apr%202%2C%202025%2C%2001_24_41%20AM.png)
 
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Jat</h1>
 <h3 align="center">Cloud & DevOps Enthusiast from India 🚀</h3>
