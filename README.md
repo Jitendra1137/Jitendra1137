@@ -1,4 +1,7 @@
-![DevOps Banner](https://github.com/Jitendra1137/Jitendra1137/blob/main/ChatGPT%20Image%20Apr%202%2C%202025%2C%2001_24_41%20AM.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jitendra1137/Jitendra1137/main/ChatGPT%20Image%20Apr%202%2C%202025%2C%2001_24_41%20AM.png" alt="DevOps Banner" width="900px">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Jat</h1>
 <h3 align="center">Cloud & DevOps Enthusiast from India 🚀</h3>
