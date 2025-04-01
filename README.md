@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jitendra1137/Jitendra1137/main/ChatGPT%20Image%20Apr%202%2C%202025%2C%2001_24_41%20AM.png" alt="DevOps Banner" width="100%" height="400">
+  <img src="https://raw.githubusercontent.com/Jitendra1137/Jitendra1137/main/ChatGPT%20Image%20Apr%202%2C%202025%2C%2001_24_41%20AM.png" alt="DevOps Banner" width="100%" height="250">
 </p>
 
 
